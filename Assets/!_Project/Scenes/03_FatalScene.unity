@@ -201,7 +201,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 304247551}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1513600210}
+        m_TargetAssemblyTypeName: SceneSwitcher, Assembly-CSharp
+        m_MethodName: LoadMainMenu
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &304247551
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -675,6 +687,74 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1238239441}
   m_CullTransparentMesh: 1
+--- !u!1001 &1513600209
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3529300307348401030, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 945.4751
+      objectReference: {fileID: 0}
+    - target: {fileID: 3529300307348401030, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 509.28632
+      objectReference: {fileID: 0}
+    - target: {fileID: 3529300307348401030, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3529300307348401030, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3529300307348401030, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3529300307348401030, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3529300307348401030, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3529300307348401030, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3529300307348401030, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3529300307348401030, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6058341302526653262, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+      propertyPath: m_Name
+      value: SceneSwitcher
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+--- !u!114 &1513600210 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 9015319693056516688, guid: bc4db1250a6b08d4495ab6bff97204c5, type: 3}
+  m_PrefabInstance: {fileID: 1513600209}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ba072cf5ca68114e8a7f593e05c80e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SceneSwitcher
 --- !u!1 &1676768802
 GameObject:
   m_ObjectHideFlags: 0
@@ -969,7 +1049,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1944932799}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1513600210}
+        m_TargetAssemblyTypeName: SceneSwitcher, Assembly-CSharp
+        m_MethodName: LoadGameLevel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1944932799
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1256,3 +1348,4 @@ SceneRoots:
   - {fileID: 579210173}
   - {fileID: 1964360788}
   - {fileID: 1206890193}
+  - {fileID: 1513600209}
