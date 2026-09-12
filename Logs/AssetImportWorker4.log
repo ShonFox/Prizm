@@ -1,0 +1,1038 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.23f1 (09d2ecc7fb28) revision 643820'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'ru' Physical Memory: 15774 MB
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-alexf" at "2026-09-12T09:24:20.8583219Z"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-09-12T09:24:20Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.3.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Unity/Prizm
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+50605
+-parentPid
+12544
+-analyticsCloudUserId
+10171583763260
+-analyticsCloudProjectId
+8f1840e7-b480-4eec-9feb-5377ec2f5920
+-analyticsLocalProjectId
+bdd83dd2c2fdd6c47a41db5e06ca3f19
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+83070d8dcec7825c34f430beb5a06e72bf3edb1c
+-cbmMachineId
++OAQAnJ7Z6ADVfkzKEIIzVA0kc8=
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Unity/Prizm
+C:/Unity/Prizm
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [10308]  Target information:
+
+Player connection [10308]  * "[IP] 192.168.0.178 [Port] 0 [Flags] 2 [Guid] 4247499300 [EditorId] 4247499300 [Version] 1048832 [Id] WindowsEditor(7,WIN-OFTAFMSO75S) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 17088, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+Player connection [10308] Host joined multi-casting on [225.0.0.222:54997]...
+[Licensing::Module] LicensingClient has failed validation; ignoring
+Player connection [10308] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              5d62e178eaee4d0b843f4c3fbb2feeae
+  Correlation Id:          a290d1c06234e7932240b1c577895ba8
+  External correlation Id: 8847438791009271994
+  Machine Id:              +OAQAnJ7Z6ADVfkzKEIIzVA0kc8=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-alexf" (connect: 0.00s, validation: 0.00s, handshake: 0.18s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-alexf-notifications" at "2026-09-12T09:24:21.039022Z"
+[Licensing::Module] Licensing Background thread has ended after 0.18s
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 553.10 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 1.81 ms.
+Initialize engine version: 6000.3.23f1 (09d2ecc7fb28)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Unity/Prizm/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        AMD Radeon (TM) Graphics (ID=0x15e7)
+    Vendor:          ATI
+    VRAM:            7887 MB
+    App VRAM Budget: 7707 MB
+    Driver:          31.0.12042.4
+    Unified Memory Architecture
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56388
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.377344 seconds.
+- Loaded All Assemblies, in 11.233 seconds
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.751 seconds
+Domain Reload Profiling: 11978ms
+	BeginReloadAssembly (10175ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (77ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (478ms)
+	LoadAllAssembliesAndSetupDomain (472ms)
+		LoadAssemblies (10171ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (467ms)
+			TypeCache.Refresh (464ms)
+				TypeCache.ScanAssembly (436ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (752ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (661ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (85ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (147ms)
+			ProcessInitializeOnLoadAttributes (291ms)
+			ProcessInitializeOnLoadMethodAttributes (131ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 10171583763260-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in 13.940 seconds
+Refreshing native plugins compatible for Editor in 4.57 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 4.61 ms, found 5 plugins.
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.675 seconds
+Domain Reload Profiling: 16594ms
+	BeginReloadAssembly (226ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (108ms)
+	LoadAllAssembliesAndSetupDomain (13521ms)
+		LoadAssemblies (13063ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (582ms)
+			TypeCache.Refresh (472ms)
+				TypeCache.ScanAssembly (447ms)
+			BuildScriptInfoCaches (93ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (2676ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2357ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (302ms)
+			ProcessInitializeOnLoadAttributes (1647ms)
+			ProcessInitializeOnLoadMethodAttributes (389ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 4.01 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 59 Unused Serialized files (Serialized files now loaded: 0)
+Curl error 3: URL rejected: Malformed input to a URL function
+Unloading 10279 unused Assets / (21.4 MB). Loaded Objects now: 11105.
+Memory consumption went from 217.1 MB to 195.7 MB.
+Total: 30.149800 ms (FindLiveObjects: 1.990200 ms CreateObjectMapping: 2.138500 ms MarkObjects: 19.135300 ms  DeleteObjects: 6.884200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 370600.129509 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures
+  artifactKey: Guid(c40ab282904050149a8f559c4a28bc5d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures using Guid(c40ab282904050149a8f559c4a28bc5d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6981158fac3e11df83fc32e84b1d6a1b') in 0.0816561 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials
+  artifactKey: Guid(6a2861bb1fc2bf549863c6fc8bd13f3b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials using Guid(6a2861bb1fc2bf549863c6fc8bd13f3b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1f884ea250e4bba28d573c576d2d4e92') in 0.0122897 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.494455 seconds.
+  path: Assets/InputSystem_Actions.inputactions
+  artifactKey: Guid(052faaac586de48259a63d0c4782560b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/InputSystem_Actions.inputactions using Guid(052faaac586de48259a63d0c4782560b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b59f9f0a63db513880b8daf38963f5b2') in 0.4821185 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.484046 seconds.
+  path: Assets/TutorialInfo
+  artifactKey: Guid(ba062aa6c92b140379dbc06b43dd3b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo using Guid(ba062aa6c92b140379dbc06b43dd3b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd0ce3b9fb2b0078fcd59af112aef3b6') in 0.0013951 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.635662 seconds.
+  path: Assets/TutorialInfo/Icons
+  artifactKey: Guid(8a0c9218a650547d98138cd835033977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo/Icons using Guid(8a0c9218a650547d98138cd835033977) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1227d413ac442800839fd487a48b0b65') in 0.0011728 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.979026 seconds.
+  path: Assets/TutorialInfo/Icons/URP.png
+  artifactKey: Guid(727a75301c3d24613a3ebcec4a24c2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo/Icons/URP.png using Guid(727a75301c3d24613a3ebcec4a24c2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45e887ec2a5a8224b4af03f9e629a1e6') in 0.0787582 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.530317 seconds.
+  path: Assets/TutorialInfo/Scripts
+  artifactKey: Guid(5a9bcd70e6a4b4b05badaa72e827d8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo/Scripts using Guid(5a9bcd70e6a4b4b05badaa72e827d8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd5f7b6d5fe4d6ec12174dd17021b0f3b') in 0.0013383 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.853122 seconds.
+  path: Assets/TutorialInfo/Scripts/Editor
+  artifactKey: Guid(3ad9b87dffba344c89909c6d1b1c17e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo/Scripts/Editor using Guid(3ad9b87dffba344c89909c6d1b1c17e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2befc4d32e7a4c91df83b6e6adefcc2a') in 0.001303 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.595008 seconds.
+  path: Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+  artifactKey: Guid(476cc7d7cd9874016adc216baab94a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs using Guid(476cc7d7cd9874016adc216baab94a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61e56ed46c2d4246d2dc42ddb4eb712b') in 0.0010007 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.931402 seconds.
+  path: Assets/!_Project/Scenes/SampleScene.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!_Project/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '092f7974db3fb175701bdf9959c1e23b') in 0.0015743 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.908179 seconds.
+  path: Assets/!_Project/Scenes/01_MainMenu.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!_Project/Scenes/01_MainMenu.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4edc4cedb677d38a17a4ec6c08973707') in 0.0023567 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.873621 seconds.
+  path: Assets/!_Project/Scenes/01_MainMenu.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/!_Project/Scenes/01_MainMenu.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '71ed3e2e72f04ab382ad8f6635ae39a4') in 0.0155702 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.047813 seconds.
+  path: Assets/!_Project/Scenes/02_GameLevel.unity
+  artifactKey: Guid(afc01bc668060a5419f8ee1d40ef0051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!_Project/Scenes/02_GameLevel.unity using Guid(afc01bc668060a5419f8ee1d40ef0051) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c37b51b0e4d3406f1c85a7e1839c00d') in 0.0008118 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.895772 seconds.
+  path: Assets/!_Project/Scenes/02_GameLevel.unity
+  artifactKey: Guid(afc01bc668060a5419f8ee1d40ef0051) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/!_Project/Scenes/02_GameLevel.unity using Guid(afc01bc668060a5419f8ee1d40ef0051) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '600ab4588858da4345b54872f7b11101') in 0.0201009 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.638999 seconds.
+  path: Assets/!_Project/Scenes/03_FatalScene.unity
+  artifactKey: Guid(c2ae40f1d8a4da742ab40bc7d7ac304d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!_Project/Scenes/03_FatalScene.unity using Guid(c2ae40f1d8a4da742ab40bc7d7ac304d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a14ffe418c9fcad0d1e48a9a329cfa72') in 0.0011477 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.884748 seconds.
+  path: Assets/!_Project/Scenes/03_FatalScene.unity
+  artifactKey: Guid(c2ae40f1d8a4da742ab40bc7d7ac304d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/!_Project/Scenes/03_FatalScene.unity using Guid(c2ae40f1d8a4da742ab40bc7d7ac304d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3f90b5d6faa56d5630c847d1b364c63c') in 0.0166084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.512121 seconds.
+  path: Assets/!_Project/Scenes/04_FinalScene.unity
+  artifactKey: Guid(bd4529a97cd86844c98a220dd969b36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!_Project/Scenes/04_FinalScene.unity using Guid(bd4529a97cd86844c98a220dd969b36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d720542910813001c0f2cc9e3bb6bb7') in 0.0010823 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.891098 seconds.
+  path: Assets/!_Project/Scenes/04_FinalScene.unity
+  artifactKey: Guid(bd4529a97cd86844c98a220dd969b36b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/!_Project/Scenes/04_FinalScene.unity using Guid(bd4529a97cd86844c98a220dd969b36b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '08003a147e43a798cc9b39d81ac931c9') in 0.025792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.560611 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard
+  artifactKey: Guid(5b101da68e9261049841c73c48f7a8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard using Guid(5b101da68e9261049841c73c48f7a8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '15bd763ae6fcd55459ec92f2eb516c3e') in 0.0010585 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.718523 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue3.png
+  artifactKey: Guid(b6fc60785b6a795478135ce6f7712c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue3.png using Guid(b6fc60785b6a795478135ce6f7712c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e9d463d9ad3d28d88b5f283c0be85d11') in 0.022247 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.542683 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_brown.png
+  artifactKey: Guid(3c227d230cca14c42822692b6aff3459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_brown.png using Guid(3c227d230cca14c42822692b6aff3459) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f08d86aed4cdc2ef3fd3846057f27227') in 0.0357526 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.383617 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '25405a1a8523c494f492f8ea3628c8cc') in 0.028466 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.319635 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green3.png
+  artifactKey: Guid(988b6610bda0aca4286aff060b8d16b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green3.png using Guid(988b6610bda0aca4286aff060b8d16b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ae37b1f6308dde408b934c8592507432') in 0.0288607 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.314490 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey3.png
+  artifactKey: Guid(d9c0dd5cdac07b145be73329e489869a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey3.png using Guid(d9c0dd5cdac07b145be73329e489869a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '22bf179eec306e29c0be96071fed3e40') in 0.0314526 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.470366 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_magenta.png
+  artifactKey: Guid(81c078e07a3828a42885510e3d5369a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_magenta.png using Guid(81c078e07a3828a42885510e3d5369a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '12416d0244e6eeed25eb3b1754b73726') in 0.0266816 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.541937 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey2.png
+  artifactKey: Guid(37920ac3813690349a856bbe19a86e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey2.png using Guid(37920ac3813690349a856bbe19a86e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '509c8bdaf0718cd2562833a09300c8a4') in 0.0285536 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.380656 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green2.png
+  artifactKey: Guid(382df89af99b9f2459dd19206e68a63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green2.png using Guid(382df89af99b9f2459dd19206e68a63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f4dd8e7dc25fe67e6941a64d023f59d') in 0.0321127 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.090519 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue2.png
+  artifactKey: Guid(17198718c5735204999fb13dc36e290f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue2.png using Guid(17198718c5735204999fb13dc36e290f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '19d5935ae780c2e5c901dc58dfc11f50') in 0.0292773 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.990135 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey4.png
+  artifactKey: Guid(ed0c2c8a99e92e14ba740ac8aa428288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey4.png using Guid(ed0c2c8a99e92e14ba740ac8aa428288) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5dba1f29d089c4c67113d8d8b26e49cb') in 0.0263104 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.893569 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue1.png
+  artifactKey: Guid(44cced520ecfd9f4292979a4fe8268c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue1.png using Guid(44cced520ecfd9f4292979a4fe8268c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a7ebe3c0001614ae5360b7fff872ecd1') in 0.0227627 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.646231 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green1.png
+  artifactKey: Guid(4967dfcee94bddd4ba1430cb6fa1f304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green1.png using Guid(4967dfcee94bddd4ba1430cb6fa1f304) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f5deb8657a983b5bbb2217c195311a5') in 0.0244412 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.075666 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey4.png
+  artifactKey: Guid(ed0c2c8a99e92e14ba740ac8aa428288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey4.png using Guid(ed0c2c8a99e92e14ba740ac8aa428288) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '389b10b5de1e86c519be45998c46346c') in 0.2910342 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.603589 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_purple.png
+  artifactKey: Guid(aa0c741df9dd8634c8d84fd9ba2b0e3d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_purple.png using Guid(aa0c741df9dd8634c8d84fd9ba2b0e3d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '87e5ba303523d98862a00267fef7e9ff') in 0.1727571 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green1.png
+  artifactKey: Guid(4967dfcee94bddd4ba1430cb6fa1f304) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green1.png using Guid(4967dfcee94bddd4ba1430cb6fa1f304) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e119502fdbc74cece8fc70cee17b892a') in 0.0241883 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey3.png
+  artifactKey: Guid(d9c0dd5cdac07b145be73329e489869a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey3.png using Guid(d9c0dd5cdac07b145be73329e489869a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '158e7e3da37b2fbe80d7fb6593ea49de') in 0.0264447 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_orange.png
+  artifactKey: Guid(fe3e0a556829be24bb87c912d79e872d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_orange.png using Guid(fe3e0a556829be24bb87c912d79e872d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2b8b4818c3956745668880820446891e') in 0.0192679 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_white.png
+  artifactKey: Guid(9397418d1d7b12543bf27fb61b93bbea) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_white.png using Guid(9397418d1d7b12543bf27fb61b93bbea) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd1a1fd836c6c7d0472fedebb4bf38a74') in 0.0238444 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_olive.png
+  artifactKey: Guid(9895b9b639c999f488492b5182e2242c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_olive.png using Guid(9895b9b639c999f488492b5182e2242c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'af0ea6fd8c723c4f37a0838b0056bdfa') in 0.0262419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_normal.png
+  artifactKey: Guid(44ae09ed76086b14e82d37feb30c7650) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_normal.png using Guid(44ae09ed76086b14e82d37feb30c7650) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ed790bf07cf8e08fe2513d8aefd5d9bf') in 0.0313202 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5ef53dbaaf78d79e24e83de93e12f6a0') in 0.0379312 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey2.png
+  artifactKey: Guid(37920ac3813690349a856bbe19a86e2b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey2.png using Guid(37920ac3813690349a856bbe19a86e2b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'cb6dff1406a3ea58bdd0ce10ef7d30ac') in 0.0315809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_red.png
+  artifactKey: Guid(3d6064e2e1cd7214e9f67f3a68f494fb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_red.png using Guid(3d6064e2e1cd7214e9f67f3a68f494fb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '18b6727ae57dc3418477e4eb7c4e97b2') in 0.031365 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.302714 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_brown.png
+  artifactKey: Guid(3c227d230cca14c42822692b6aff3459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_brown.png using Guid(3c227d230cca14c42822692b6aff3459) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2b85b63464fe40bb83881de3ec17392c') in 0.0399355 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.294044 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7836d4fa7504dde3f7c1523fedf1a32f') in 0.0371075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.123115 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue1.png
+  artifactKey: Guid(44cced520ecfd9f4292979a4fe8268c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue1.png using Guid(44cced520ecfd9f4292979a4fe8268c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '329bd6e513c70193cd508cda2fafad08') in 0.0103513 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.882635 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_purple.png
+  artifactKey: Guid(aa0c741df9dd8634c8d84fd9ba2b0e3d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_purple.png using Guid(aa0c741df9dd8634c8d84fd9ba2b0e3d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '998e127656fd4f8b3867b6f7e9dfb28e') in 0.0238524 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_brown.png
+  artifactKey: Guid(3c227d230cca14c42822692b6aff3459) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_brown.png using Guid(3c227d230cca14c42822692b6aff3459) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'abcd4330018db5b68516e9f4a59f5021') in 0.0174693 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green3.png
+  artifactKey: Guid(988b6610bda0aca4286aff060b8d16b8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green3.png using Guid(988b6610bda0aca4286aff060b8d16b8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '338536f52ada9238cde5e547979d1594') in 0.0167675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue1.png
+  artifactKey: Guid(44cced520ecfd9f4292979a4fe8268c4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue1.png using Guid(44cced520ecfd9f4292979a4fe8268c4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '56b6be9dc663d264dfdb25619795b976') in 0.0225538 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_white.png
+  artifactKey: Guid(9397418d1d7b12543bf27fb61b93bbea) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_white.png using Guid(9397418d1d7b12543bf27fb61b93bbea) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a33613f6b2b4edb36c06dee7dc40b156') in 0.0220763 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_olive.png
+  artifactKey: Guid(9895b9b639c999f488492b5182e2242c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_olive.png using Guid(9895b9b639c999f488492b5182e2242c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5b965417bfa757fc0e94528931c36d0e') in 0.0232367 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_yellow.png
+  artifactKey: Guid(ee12d2bc9f5c8554d97d5beb9dc4b275) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_yellow.png using Guid(ee12d2bc9f5c8554d97d5beb9dc4b275) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e3e9f2ba562252b96b35dfa75d7d1194') in 0.0197763 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_red.png
+  artifactKey: Guid(3d6064e2e1cd7214e9f67f3a68f494fb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_red.png using Guid(3d6064e2e1cd7214e9f67f3a68f494fb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e5911d79e009e4452cab1547aed8f12c') in 0.0181176 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.071671 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey3.png
+  artifactKey: Guid(d9c0dd5cdac07b145be73329e489869a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey3.png using Guid(d9c0dd5cdac07b145be73329e489869a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9a79db947a735fdc57811fd73ee53004') in 0.0148096 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.613325 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '872b69f769d2d98f5324541466ab926e') in 0.0135039 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.058646 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd4a3adc6d8e72687c3b68462d9554045') in 0.022001 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.174364 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4026d1acca31fadd302fca8859160f31') in 0.0634842 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.453398 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green2.png
+  artifactKey: Guid(382df89af99b9f2459dd19206e68a63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green2.png using Guid(382df89af99b9f2459dd19206e68a63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '71e2e3f684e00d75c51094522e490409') in 0.0174731 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.953303 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '76aeec9c03f17d43e3150065c2d230ac') in 0.0226735 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.437548 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd21349214135b7f7e258a710c923a2c8') in 0.0341192 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.153102 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd6c4bd3abdeebfa628c5c54b28587735') in 0.0267205 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.773462 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9824a219e351d713137cc041195a422e') in 0.0229968 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.316035 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4144ace567886583224bf14d4aec2e06') in 0.0194374 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.899440 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd8f5597c60250b7b627e6fef3b0bf5a8') in 0.0191238 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.655974 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b03a686c91e355f978858e76594661f5') in 0.0301358 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.881023 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4370415b037d747b9d676cfb5f1b29ef') in 0.0200212 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.186345 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd39372103bba02e14cc0ef616acb2b47') in 0.0129452 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.899603 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+  artifactKey: Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png using Guid(6c35396cb8128474a8a73c6b19f2fe1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8fbabc774434bbf7831f2cbfc1593fca') in 0.0213595 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 3091.355828 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8e56b9dad7aff16b30ae8bf0a34c5bf3') in 0.2173815 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/!_Project/Scenes/01_MainMenu.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/!_Project/Scenes/01_MainMenu.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c18a89b4dd019a928acc6a05818d6c27') in 0.0152471 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.839190 seconds.
+  path: Assets/!_Project/Scenes/02_GameLevel.unity
+  artifactKey: Guid(afc01bc668060a5419f8ee1d40ef0051) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/!_Project/Scenes/02_GameLevel.unity using Guid(afc01bc668060a5419f8ee1d40ef0051) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '097e0e265702119f440d2e74c7856ecb') in 0.0204327 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph
+  artifactKey: Guid(f63d574838ccfb44f84acc05fed0af48) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph using Guid(f63d574838ccfb44f84acc05fed0af48) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ca351b187792fbde43b71bd787c91901') in 0.0516232 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+  artifactKey: Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Sprite.shader using Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '05debb6a88372546d195e8ff24a79f02') in 0.0175805 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+  artifactKey: Guid(3997e2241185407d80309a82f9148466) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc using Guid(3997e2241185407d80309a82f9148466) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2f5f825ddbdff456fab85719f572c295') in 0.0299894 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2cbe6cdd5827caf7ea13bb6f091d54c7') in 0.0970645 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+  artifactKey: Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader using Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8ed148f7ba40efc39b4554a63fa2eabb') in 0.0200211 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'fda46809ca7ae38536d6884e332fd7b5') in 0.0356549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+  artifactKey: Guid(bc1ede39bf3643ee8e493720e4259791) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader using Guid(bc1ede39bf3643ee8e493720e4259791) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'bea577dad20edde4404de55253d8f266') in 0.0211601 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+  artifactKey: Guid(fade42e8bc714b018fac513c043d323b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt using Guid(fade42e8bc714b018fac513c043d323b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3bfa0d9eb8af85b1a7581f4f62884238') in 0.0182574 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
+  artifactKey: Guid(a3d800b099a06e0478fb790c5e79057a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph using Guid(a3d800b099a06e0478fb790c5e79057a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '829f3ecb0de4a3edff82ed616157d9d8') in 0.0631481 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl
+  artifactKey: Guid(96de908384869cd409c75efa351d5edf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl using Guid(96de908384869cd409c75efa351d5edf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0d53902e7c764994b8469e201f656b7a') in 0.0339545 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+  artifactKey: Guid(dd89cf5b9246416f84610a006f916af7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader using Guid(dd89cf5b9246416f84610a006f916af7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1ad7cbaff63ddfc91dcd4fd2b7fd1bf5') in 0.0161696 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+  artifactKey: Guid(381dcb09d5029d14897e55f98031fca5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt using Guid(381dcb09d5029d14897e55f98031fca5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '42ac103ba6a1e609d6d506c8d86c9e6f') in 0.0318392 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'cd259b88ddf92c194780361f1597a940') in 0.0247853 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+  artifactKey: Guid(f7ada0af4f174f0694ca6a487b8f543d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader using Guid(f7ada0af4f174f0694ca6a487b8f543d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e7c576106201ac8b219ba50940e2a1ea') in 0.0225396 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+  artifactKey: Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt using Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '057f3b1f5cd5623a3b0197020eff7c8d') in 0.0159768 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/TextMesh Pro/Resources/TMP Settings.asset
+  artifactKey: Guid(3f5b5dff67a942289a9defa416b206f3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Resources/TMP Settings.asset using Guid(3f5b5dff67a942289a9defa416b206f3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'acb947e047fef812adb29e1a233426e9') in 0.0517292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.json
+  artifactKey: Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.json using Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '74483dc6c0ee64d47c8a9ad4cbffeb18') in 0.0256062 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.177330 seconds.
+  path: Assets/Settings/Mobile_RPAsset.asset
+  artifactKey: Guid(5e6cbd92db86f4b18aec3ed561671858) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Settings/Mobile_RPAsset.asset using Guid(5e6cbd92db86f4b18aec3ed561671858) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6dd61ce8bdcf3d880ce4d5c2ac259711') in 0.0551363 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.862780 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey3.mat
+  artifactKey: Guid(17c44fb3e5be9644586a0728a5f5a386) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey3.mat using Guid(17c44fb3e5be9644586a0728a5f5a386) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e6ae294536bcec8db502e0c8d2d62bfe') in 0.0613997 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey4.mat
+  artifactKey: Guid(8d530ffe6c4968843806085897955b9d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey4.mat using Guid(8d530ffe6c4968843806085897955b9d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e547bb1db0167849dfaf23acaf1f16aa') in 0.0367024 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Yellow.mat
+  artifactKey: Guid(c852af001dae0064e9acaa832f1dadb7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Yellow.mat using Guid(c852af001dae0064e9acaa832f1dadb7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c1d3a4fafa388ab9ea7e468ece98f695') in 0.0352406 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_White.mat
+  artifactKey: Guid(aeee7071bea0a4c478b4fea5933c5f79) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_White.mat using Guid(aeee7071bea0a4c478b4fea5933c5f79) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '130039b0be43333fcaacfa5704112b15') in 0.0256999 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Red.mat
+  artifactKey: Guid(5a26de236ce89e94b963be8fa2b7ade6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Red.mat using Guid(5a26de236ce89e94b963be8fa2b7ade6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b9ce3a42d929e9c6cad75a2679237450') in 0.0222997 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Blue2.mat
+  artifactKey: Guid(5e148de6cdf2d164aa3e3f90ce8c852c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Blue2.mat using Guid(5e148de6cdf2d164aa3e3f90ce8c852c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b6dfdca1dd34b9fe16acceca6c99ebe7') in 0.0212632 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Blue1.mat
+  artifactKey: Guid(663834164c6a04740aaa1b778249ce7e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Blue1.mat using Guid(663834164c6a04740aaa1b778249ce7e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3c10ef5d9002844e3c4ef71cf87daf02') in 0.0255091 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey2.mat
+  artifactKey: Guid(07dc66ae04b7f6a43b9674bf0fefb33a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey2.mat using Guid(07dc66ae04b7f6a43b9674bf0fefb33a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '35861d6cc0d055797ec25ab5655339e4') in 0.0241144 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Magenta.mat
+  artifactKey: Guid(4b905f60df09c8245b6e0d5af2e04c7f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Magenta.mat using Guid(4b905f60df09c8245b6e0d5af2e04c7f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8c549f0a2096a6ae753111c2baec64fa') in 0.0264179 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Green3.mat
+  artifactKey: Guid(f6298605825d7154f8923c76872aa46e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Green3.mat using Guid(f6298605825d7154f8923c76872aa46e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'bf11745b10231334e0308a4787ba36be') in 0.0269295 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
