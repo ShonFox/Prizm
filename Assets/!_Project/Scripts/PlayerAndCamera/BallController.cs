@@ -3,6 +3,9 @@ using UnityEngine.InputSystem;
 
 public class BallController : MonoBehaviour
 {
+    // Ссылка на компонент трансформации камеры
+    [SerializeField] private Transform _mainCamera;
+
     // Компонент, который управляет движением шара (настраивается в инспекторе)
     [SerializeField] private ObjectMovement _objectMovement;
 
@@ -42,9 +45,23 @@ public class BallController : MonoBehaviour
 
     private void HandleMovement()
     {
+        // Получаем направления камеры (где «вперёд» и «вправо» по отношению к камере)
+        Vector3 cameraForward = _mainCamera.forward;
+        Vector3 cameraRight = _mainCamera.right;
+
+        // Убираем вертикальную составляющую (ось Y), чтобы движение было плоским (2D)
+        cameraForward.y = 0;
+        cameraRight.y = 0;
+
+        // Нормализуем векторы (делаем их длиной 1) для корректных вычислений
+        cameraForward.Normalize();
+        cameraRight.Normalize();
+
         // Создаём итоговое направление:
+        // (X-ось камеры \* горизонтальный ввод) + (Y-ось камеры \* вертикальный ввод)
         Vector3 movementDirection =
-            Vector3.forward * _inputDirection.y + Vector3.right * _inputDirection.x;
+            cameraRight * _inputDirection.x +
+            cameraForward * _inputDirection.y;
 
         // Нормализуем итоговый вектор перед передачей
         movementDirection.Normalize();

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Unity\\Prizm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\objectmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\objectmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\CameraOrbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\!_Project\\Scripts\\CameraOrbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\SceneSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\!_Project\\Scripts\\SceneSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ObjectMovement.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\ObjectMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\ObjectMovement.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\ObjectMovement.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\ObjectMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T14:07:36.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GroundCheck.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\GroundCheck.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\GroundCheck.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\GroundCheck.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\GroundCheck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T14:01:40.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "SceneSwitcher.cs",
               "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\SceneSwitcher.cs",
               "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\SceneSwitcher.cs",
@@ -60,7 +30,19 @@
               "RelativeToolTip": "Assets\\!_Project\\Scripts\\SceneSwitcher.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwB0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T11:04:57.239Z",
+              "WhenOpened": "2026-09-12T11:04:57.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraOrbit.cs",
+              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\CameraOrbit.cs",
+              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\CameraOrbit.cs",
+              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\CameraOrbit.cs",
+              "RelativeToolTip": "Assets\\!_Project\\Scripts\\CameraOrbit.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T04:59:12.788Z",
               "EditorCaption": ""
             }
           ]
