@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Unity\\Prizm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\collectpoints\\collectibleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\collectpoints\\collectibleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\dangeritem\\instantkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\dangeritem\\instantkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\collectpoints\\itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\collectpoints\\itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\dangeritem\\objectdurabilityview1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\dangeritem\\objectdurabilityview1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\collectpoints\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\collectpoints\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\dangeritem\\objectdurability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\dangeritem\\objectdurability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\dangeritem\\continuousdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\dangeritem\\continuousdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\BallDeathHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\!_Project\\Scripts\\DangerItem\\BallDeathHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CollectibleItem.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\CollectPoints\\CollectibleItem.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\CollectPoints\\CollectibleItem.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\CollectPoints\\CollectibleItem.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\CollectPoints\\CollectibleItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Title": "InstantKill.cs",
+              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\InstantKill.cs",
+              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\DangerItem\\InstantKill.cs",
+              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\InstantKill.cs",
+              "RelativeToolTip": "Assets\\!_Project\\Scripts\\DangerItem\\InstantKill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T08:12:42.495Z",
+              "WhenOpened": "2026-09-13T11:47:53.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ItemCollector.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\CollectPoints\\ItemCollector.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\CollectPoints\\ItemCollector.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\CollectPoints\\ItemCollector.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\CollectPoints\\ItemCollector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Title": "ObjectDurabilityView1.cs",
+              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\ObjectDurabilityView1.cs",
+              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\DangerItem\\ObjectDurabilityView1.cs",
+              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\ObjectDurabilityView1.cs",
+              "RelativeToolTip": "Assets\\!_Project\\Scripts\\DangerItem\\ObjectDurabilityView1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T08:11:01.375Z",
+              "WhenOpened": "2026-09-13T11:36:04.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContinuousDamage.cs",
+              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\ContinuousDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\DangerItem\\ContinuousDamage.cs",
+              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\ContinuousDamage.cs",
+              "RelativeToolTip": "Assets\\!_Project\\Scripts\\DangerItem\\ContinuousDamage.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwFQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T11:28:27.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ScoreCounter.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\CollectPoints\\ScoreCounter.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\CollectPoints\\ScoreCounter.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\CollectPoints\\ScoreCounter.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\CollectPoints\\ScoreCounter.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAiwFYAAAAFAAAAAAAAAA==",
+              "Title": "ObjectDurability.cs",
+              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\ObjectDurability.cs",
+              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\DangerItem\\ObjectDurability.cs",
+              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\ObjectDurability.cs",
+              "RelativeToolTip": "Assets\\!_Project\\Scripts\\DangerItem\\ObjectDurability.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwF4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T07:23:27.452Z",
+              "WhenOpened": "2026-09-13T11:23:22.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BallDeathHandler.cs",
+              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\BallDeathHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\DangerItem\\BallDeathHandler.cs",
+              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\BallDeathHandler.cs",
+              "RelativeToolTip": "Assets\\!_Project\\Scripts\\DangerItem\\BallDeathHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T09:46:16.033Z",
               "EditorCaption": ""
             }
           ]
