@@ -882,8 +882,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0421\u0434\u0435\u0441\u044C \u043C\u043E\u0433\u043B\u0430 \u0431\u044B\u0442\u044C
-    \u0432\u0430\u0448\u0430 \u0440\u0435\u043A\u043B\u0430\u043C\u0430"
+  m_text: "\u0412\u0430\u043C \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E
+    \u043F\u0440\u043E\u0439\u0442\u0438 \u0443\u0440\u043E\u0432\u0435\u043D\u044C
+    \u0438 \u0432\u044B\u0436\u0438\u0442\u044C \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E\u0435
+    \u0432\u0440\u0435\u043C\u044F \u0443\u0432\u043E\u0440\u0430\u0447\u0438\u0432\u0430\u044F\u0441\u044C
+    \u043E\u0442 \u0432\u0440\u0430\u0433\u0430."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 390835a9f4e6410428a7cf3d5577cf8e, type: 2}
   m_sharedMaterial: {fileID: -4765842473967885453, guid: 390835a9f4e6410428a7cf3d5577cf8e, type: 2}
@@ -949,7 +952,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -187.41803, y: -73.540405, z: -176.63477, w: -94.283966}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1233,6 +1236,63 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1871263661}
   m_CullTransparentMesh: 1
+--- !u!1001 &8402880022630628431
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3629398350306691345, guid: 8639f14d313e2de4f93f11044868c21a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 754.03784
+      objectReference: {fileID: 0}
+    - target: {fileID: 3629398350306691345, guid: 8639f14d313e2de4f93f11044868c21a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 521.04584
+      objectReference: {fileID: 0}
+    - target: {fileID: 3629398350306691345, guid: 8639f14d313e2de4f93f11044868c21a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3629398350306691345, guid: 8639f14d313e2de4f93f11044868c21a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3629398350306691345, guid: 8639f14d313e2de4f93f11044868c21a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3629398350306691345, guid: 8639f14d313e2de4f93f11044868c21a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3629398350306691345, guid: 8639f14d313e2de4f93f11044868c21a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3629398350306691345, guid: 8639f14d313e2de4f93f11044868c21a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3629398350306691345, guid: 8639f14d313e2de4f93f11044868c21a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3629398350306691345, guid: 8639f14d313e2de4f93f11044868c21a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6834179542306352742, guid: 8639f14d313e2de4f93f11044868c21a, type: 3}
+      propertyPath: m_Name
+      value: BackgroundMusicInitializer
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8639f14d313e2de4f93f11044868c21a, type: 3}
 --- !u!1001 &9131017634619457551
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1311,3 +1371,4 @@ SceneRoots:
   - {fileID: 1191127664}
   - {fileID: 1292883219}
   - {fileID: 9131017634619457551}
+  - {fileID: 8402880022630628431}

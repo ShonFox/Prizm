@@ -28,7 +28,7 @@ public class EnemyShooter : MonoBehaviour
     //позволяет извне включить или выключить стрельбу
     public void Shoot(bool canShoot)
     {
-        _canShoot=canShoot;
+        _canShoot = canShoot;
     }
 
     private IEnumerator ShootCoroutine()

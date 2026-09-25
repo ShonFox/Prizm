@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\Unity\\Prizm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\enemy\\patrolpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\enemy\\patrolpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\balldestruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\balldestruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\BallDestroySound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\!_Project\\Scripts\\DangerItem\\BallDestroySound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\enemy\\dealdamageandknockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\enemy\\dealdamageandknockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\dangeritem\\objectdurability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\dangeritem\\objectdurability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\enemy\\enemybodyrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\enemy\\enemybodyrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\enemy\\enemyshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\enemy\\enemyshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\enemy\\dealdamageanddestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\enemy\\dealdamageanddestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\enemy\\bulletlifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\enemy\\bulletlifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\enemy\\bulletmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\enemy\\bulletmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\PlayerZoneDetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\!_Project\\Scripts\\Enemy\\PlayerZoneDetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\prizm\\assets\\!_project\\scripts\\backgroundmusicinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\!_project\\scripts\\backgroundmusicinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnemyController.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\EnemyController.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\Enemy\\EnemyController.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\EnemyController.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\Enemy\\EnemyController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BallDestruction.cs",
+              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\BallDestruction.cs",
+              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\BallDestruction.cs",
+              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\BallDestruction.cs",
+              "RelativeToolTip": "Assets\\!_Project\\Scripts\\BallDestruction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T08:39:34.07Z",
+              "WhenOpened": "2026-09-25T18:52:23.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BallDestroySound.cs",
+              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\BallDestroySound.cs",
+              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\DangerItem\\BallDestroySound.cs",
+              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\BallDestroySound.cs",
+              "RelativeToolTip": "Assets\\!_Project\\Scripts\\DangerItem\\BallDestroySound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:08:18.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DealDamageAndKnockback.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\DealDamageAndKnockback.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\Enemy\\DealDamageAndKnockback.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\DealDamageAndKnockback.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\Enemy\\DealDamageAndKnockback.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAFAAAAAAAAAA==",
+              "Title": "ObjectDurability.cs",
+              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\ObjectDurability.cs",
+              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\DangerItem\\ObjectDurability.cs",
+              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\DangerItem\\ObjectDurability.cs",
+              "RelativeToolTip": "Assets\\!_Project\\Scripts\\DangerItem\\ObjectDurability.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T16:53:09.768Z",
+              "WhenOpened": "2026-09-25T18:06:18.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EnemyBodyRotate.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\EnemyBodyRotate.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\Enemy\\EnemyBodyRotate.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\EnemyBodyRotate.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\Enemy\\EnemyBodyRotate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "BackgroundMusicInitializer.cs",
+              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\BackgroundMusicInitializer.cs",
+              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\BackgroundMusicInitializer.cs",
+              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\BackgroundMusicInitializer.cs",
+              "RelativeToolTip": "Assets\\!_Project\\Scripts\\BackgroundMusicInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T16:08:48.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PatrolPoints.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\PatrolPoints.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\Enemy\\PatrolPoints.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\PatrolPoints.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\Enemy\\PatrolPoints.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T04:23:09.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EnemyShooter.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\EnemyShooter.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\Enemy\\EnemyShooter.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\EnemyShooter.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\Enemy\\EnemyShooter.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwC4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T15:27:14.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DealDamageAndDestroy.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\DealDamageAndDestroy.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\Enemy\\DealDamageAndDestroy.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\DealDamageAndDestroy.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\Enemy\\DealDamageAndDestroy.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T04:03:14.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BulletLifetime.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\BulletLifetime.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\Enemy\\BulletLifetime.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\BulletLifetime.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\Enemy\\BulletLifetime.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T03:59:46.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BulletMovement.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\BulletMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\Enemy\\BulletMovement.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\BulletMovement.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\Enemy\\BulletMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T03:54:35.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlayerZoneDetector.cs",
-              "DocumentMoniker": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\PlayerZoneDetector.cs",
-              "RelativeDocumentMoniker": "Assets\\!_Project\\Scripts\\Enemy\\PlayerZoneDetector.cs",
-              "ToolTip": "C:\\Unity\\Prizm\\Assets\\!_Project\\Scripts\\Enemy\\PlayerZoneDetector.cs",
-              "RelativeToolTip": "Assets\\!_Project\\Scripts\\Enemy\\PlayerZoneDetector.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T03:38:23.636Z",
+              "WhenOpened": "2026-09-25T17:46:31.543Z",
               "EditorCaption": ""
             }
           ]
